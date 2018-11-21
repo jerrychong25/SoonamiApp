@@ -38,7 +38,7 @@ import java.text.SimpleDateFormat;
 /**
  * Displays information about a single earthquake.
  */
-public class MainActivity extends AppCompatActivity {git a
+public class MainActivity extends AppCompatActivity {
 
     /** Tag for the log messages */
     public static final String LOG_TAG = MainActivity.class.getSimpleName();
