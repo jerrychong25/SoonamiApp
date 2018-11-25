@@ -29,4 +29,4 @@ Tested on Android 6.0 mobile phone.
 
 ## License
 
-This project base code is originally provided by Udacity's Android Basics: Networking Course Course Leads Katherine Kuan and Jessica Lin.
+This project base code is originally provided by Udacity's Android Basics: Networking Course Course Leads Chris Lei and Joe Lewis.
